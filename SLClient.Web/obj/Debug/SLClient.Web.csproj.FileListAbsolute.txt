@@ -1,0 +1,10 @@
+C:\WebApplications\Temp\SilverlightSockets\SilverlightSockets\SLClient.Web\bin\SLClient.Web.dll
+C:\WebApplications\Temp\SilverlightSockets\SilverlightSockets\SLClient.Web\bin\SLClient.Web.pdb
+C:\WebApplications\Temp\SilverlightSockets\SilverlightSockets\SLClient.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\WebApplications\Temp\SilverlightSockets\SilverlightSockets\SLClient.Web\obj\Debug\SLClient.Web.dll
+C:\WebApplications\Temp\SilverlightSockets\SilverlightSockets\SLClient.Web\obj\Debug\SLClient.Web.pdb
+C:\WebApplications\Temp\SilverlightSockets\UDP\SLClient.Web\bin\SLClient.Web.dll
+C:\WebApplications\Temp\SilverlightSockets\UDP\SLClient.Web\bin\SLClient.Web.pdb
+C:\WebApplications\Temp\SilverlightSockets\UDP\SLClient.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\WebApplications\Temp\SilverlightSockets\UDP\SLClient.Web\obj\Debug\SLClient.Web.dll
+C:\WebApplications\Temp\SilverlightSockets\UDP\SLClient.Web\obj\Debug\SLClient.Web.pdb

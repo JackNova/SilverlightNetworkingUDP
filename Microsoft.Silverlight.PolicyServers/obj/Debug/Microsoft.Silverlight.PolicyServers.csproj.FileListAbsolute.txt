@@ -1,0 +1,5 @@
+C:\WebApplications\Temp\SilverlightSockets\UDP\Microsoft.Silverlight.PolicyServers\bin\Debug\Microsoft.Silverlight.PolicyServers.dll
+C:\WebApplications\Temp\SilverlightSockets\UDP\Microsoft.Silverlight.PolicyServers\bin\Debug\Microsoft.Silverlight.PolicyServers.pdb
+C:\WebApplications\Temp\SilverlightSockets\UDP\Microsoft.Silverlight.PolicyServers\obj\Debug\ResolveAssemblyReference.cache
+C:\WebApplications\Temp\SilverlightSockets\UDP\Microsoft.Silverlight.PolicyServers\obj\Debug\Microsoft.Silverlight.PolicyServers.dll
+C:\WebApplications\Temp\SilverlightSockets\UDP\Microsoft.Silverlight.PolicyServers\obj\Debug\Microsoft.Silverlight.PolicyServers.pdb

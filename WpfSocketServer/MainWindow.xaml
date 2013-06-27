@@ -1,0 +1,10 @@
+﻿<Window x:Class="WpfSocketServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid Name="mainGrid" Background="Orange" VerticalAlignment="Top" MouseMove="OnMouseMove" Height="311">
+            <Ellipse Height="17" Name="circle" Stroke="Black"  Width="17" Fill="#FF78FF00" ToolTip="JackNova" />
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--  an example configuration file  -->
+<slmp:multicast-policy-responder xmlns:slmp="http://schemas.microsoft.com/silverlight/policyservers/multicastpolicyserver">
+    <!--<slmp:ssm-responder>
+        <slmp:respond-to application="http://www.contoso.com/">
+            <slmp:allowed-resource group="232.0.0.1" port="12345" />
+            <slmp:allowed-resource group="ff3e::8000:1" port="12345-12346" />
+        </slmp:respond-to>
+    </slmp:ssm-responder>-->
+    <slmp:asm-responder>
+        <slmp:respond-to application="http://localhost:35933/ClientBin/SLClient.xap">
+            <slmp:allowed-resource group="224.0.0.0" port="1025" />
+            <!--<slmp:allowed-resource group="ff0e::1" port="12345-12346" />-->
+        </slmp:respond-to>
+    </slmp:asm-responder>
+</slmp:multicast-policy-responder>
